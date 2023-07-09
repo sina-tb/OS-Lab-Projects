@@ -1,0 +1,15 @@
+[submodule "OS_Lab_CA5"]
+	path = OS_Lab_CA5
+	url = https://github.com/sina-tb/OS_Lab_CA5.git
+[submodule "OS_Lab_CA4"]
+	path = OS_Lab_CA4
+	url = https://github.com/sina-tb/OS_Lab_CA4.git
+[submodule "OS_Lab_CA1"]
+	path = OS_Lab_CA1
+	url = https://github.com/sina-tb/OS_Lab_CA1.git
+[submodule "OS_Lab_CA3"]
+	path = OS_Lab_CA3
+	url = https://github.com/sina-tb/OS_Lab_CA3.git
+[submodule "OS_Lab_CA2"]
+	path = OS_Lab_CA2
+	url = https://github.com/sina-tb/OS_Lab_CA2.git
